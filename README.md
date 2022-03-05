@@ -1,4 +1,4 @@
-# ML-MT-WebApp
+# Disease-Predection-System
 
 <img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
 
