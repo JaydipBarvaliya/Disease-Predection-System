@@ -194,6 +194,11 @@ def kidney():
 def Malaria():
     return render_template("index.html")
 
+@app.route("/Pneumonia")
+def Pneumonia():
+    return render_template("index2.html")
+
+
 """
 @app.route("/register", methods=["GET", "POST"])
 def register():
