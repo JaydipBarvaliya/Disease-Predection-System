@@ -2,8 +2,9 @@ import pandas as pd
 import numpy as np
 # from sklearn.linear_model 
 import LogisticRegression
-import pickle
-from sklearn.externals import joblib
+# import pickle
+# from sklearn.externals 
+import joblib
 
 logreg=LogisticRegression()
 
