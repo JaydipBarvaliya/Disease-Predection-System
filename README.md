@@ -61,7 +61,20 @@
   
   <hr>
   
-  <p> The whole project is deployed on Heroku Cloud.
+  <p> The whole project will be deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/ <p>
-  <p> Thank you!</p>
+ <p> Here is the link where you can access the project live : "PENDING : DEPLOYED SERVER LINK" <p>
+ 
+ <hr>
+
+<h3> Contributors: </h3>
+<ul>
+ <li><p><b> Anas Patel </b></p></li>
+ <li><p><b> Ravinderjit Kaur </b></p></li>
+ <li><p><b> Shivani Sharma </b></p></li>
+ <li><p><b> Hiral Vora </b></p></li>
+ <li><p><b> Jaydip Barvaliya </b></p></li>
+ <li><p><b> Prabhjot Singh </b></p></li>
+</ul>
+  
+ <p> Thank you!</p> 
