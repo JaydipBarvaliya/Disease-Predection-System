@@ -76,5 +76,9 @@
  <li><p><b> Jaydip Barvaliya </b></p></li>
  <li><p><b> Prabhjot Singh </b></p></li>
 </ul>
+
+ <hr>
+
+<h3> Instructor: </h3>
   
- <p> Thank you!</p> 
+ <p> Matt Mostofi</p> 
