@@ -63,7 +63,7 @@
   
   <p> The whole project will be deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : "PENDING : DEPLOYED SERVER LINK" <p>
+ <p> Here is the link where you can access the project live : "https://disease-pred-sys-by-jaydip.herokuapp.com/" <p>
  
  <hr>
 
